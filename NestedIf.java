@@ -3,7 +3,7 @@ public class NestedIf
 	public static void main(String args[])
 	{
 		int age=13;
-		String country="Pak";
+		String country="Pakistan";
 		if(age>=18)
 		{
 			if(country=="India"||country=="india")
